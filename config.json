@@ -33,7 +33,7 @@
       },
       "marketing_release": {
         "export": {
-          "target": "development"
+          "target": "local"
         },
         "filters": [
           {
