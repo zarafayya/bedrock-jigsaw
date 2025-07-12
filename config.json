@@ -31,6 +31,22 @@
           }
         ]
       },
+      "marketing_release": {
+        "export": {
+          "target": "development"
+        },
+        "filters": [
+          {
+            "filter": "esbuild",
+            "settings": {
+              "entryPoints": [
+                "data/main.ts"
+              ],
+              "minify": false
+            }
+          }
+        ]
+      },
       "build": {
         "export": {
           "target": "local"
