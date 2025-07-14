@@ -2,21 +2,13 @@
   "format_version": "1.21.20", 
   "minecraft:template_pool": { 
     "description": { 
-      "identifier": "chia:we7x11" 
+      "identifier": "chia:tb" 
     }, 
     "elements": [ 
       { 
         "element": { 
           "element_type": "minecraft:single_pool_element", 
-          "location": "chia/we", 
-          "processors": "chia:quartz_bricks_replacement" 
-        }, 
-        "weight": 3
-      }, 
-      { 
-        "element": { 
-          "element_type": "minecraft:single_pool_element", 
-          "location": "chia/we_stop", 
+          "location": "chia/main", 
           "processors": "chia:quartz_bricks_replacement"
         }, 
         "weight": 1
