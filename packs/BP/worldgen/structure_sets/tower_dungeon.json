@@ -1,0 +1,21 @@
+{
+    "format_version": "1.21.20", 
+    "minecraft:structure_set": { 
+       "description": { 
+         "identifier": "chia:tower_dungeon" 
+       }, 
+       "placement": { 
+         "type": "minecraft:random_spread", 
+         "salt": 83469867, 
+         "separation": 4, 
+         "spacing": 10, 
+         "spread_type": "linear" 
+       }, 
+       "structures": [ 
+         { 
+          "structure": "chia:tower_dungeon" , 
+          "weight": 1 
+         } 
+       ] 
+    }
+}
