@@ -11,14 +11,13 @@
           "location": "chia/ns", 
           "processors": "chia:quartz_bricks_replacement" 
         }, 
-        "weight": 3
+        "weight": 10
       }, 
       { 
         "element": { 
           "element_type": "minecraft:single_pool_element", 
           "location": "chia/main", 
-          "processors": "chia:quartz_bricks_replacement",
-          "projection": "minecraft:terrain_matching" 
+          "processors": "chia:quartz_bricks_replacement"
         }, 
         "weight": 1
       } 

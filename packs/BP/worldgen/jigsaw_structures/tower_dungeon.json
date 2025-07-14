@@ -7,19 +7,16 @@
     "step": "surface_structures", 
     "terrain_adaptation": "none", 
     "start_pool": "chia:ns7x9", 
-    "max_depth": 7, 
+    "max_depth": 5, 
     "start_height": {
-      "value": {
-        "from_sea": 0
-      },
+      "type": "uniform",
       "min": {
-        "from_sea": 0
+        "above_bottom": 63
       },
       "max": {
-        "below_top": 10
-      },
-      "type": "uniform"
-    }, 
+        "above_bottom": 73
+      }
+    },
     "heightmap_projection": "world_surface" 
   } 
 }
