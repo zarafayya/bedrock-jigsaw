@@ -16,7 +16,7 @@
       { 
         "element": { 
           "element_type": "minecraft:single_pool_element", 
-          "location": "chia/ns_stop", 
+          "location": "chia/nscap", 
           "processors": "chia:quartz_bricks_replacement"
         }, 
         "weight": 1
