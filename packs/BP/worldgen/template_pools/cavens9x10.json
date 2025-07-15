@@ -9,7 +9,7 @@
         "element": { 
           "element_type": "minecraft:single_pool_element", 
           "location": "chia/cavemain", 
-          "processors": "chia:quartz_bricks_replacement" 
+          "processors": "chia:mud_bricks_replacement" 
         }, 
         "weight": 1
       }, 
@@ -17,15 +17,15 @@
         "element": { 
           "element_type": "minecraft:single_pool_element", 
           "location": "chia/cavens", 
-          "processors": "chia:quartz_bricks_replacement"
+          "processors": "chia:mud_bricks_replacement"
         }, 
-        "weight": 3
+        "weight": 2
       }, 
       { 
         "element": { 
           "element_type": "minecraft:single_pool_element", 
           "location": "chia/cavenscap", 
-          "processors": "chia:quartz_bricks_replacement"
+          "processors": "chia:mud_bricks_replacement"
         }, 
         "weight": 2
       }  

@@ -4,17 +4,17 @@
     "description": { 
       "identifier": "chia:cave_dungeon" 
     }, 
+    "start_pool": "chia:cavens9x10", 
     "step": "underground_structures", 
     "terrain_adaptation": "bury", 
-    "start_pool": "chia:cavewe9x10", 
-    "max_depth": 7, 
+    "max_depth": 12, 
     "start_height": {
       "type": "uniform",
       "min": {
-        "above_bottom": 30
+        "above_bottom": 0
       },
       "max": {
-        "above_bottom": 40
+        "above_bottom": 20
       }
     },
     "heightmap_projection": "world_surface" 
