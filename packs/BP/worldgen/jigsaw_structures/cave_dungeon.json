@@ -1,0 +1,22 @@
+{ 
+  "format_version": "1.21.20", 
+  "minecraft:jigsaw": { 
+    "description": { 
+      "identifier": "chia:cave_dungeon" 
+    }, 
+    "step": "underground_structures", 
+    "terrain_adaptation": "bury", 
+    "start_pool": "chia:cavewe9x10", 
+    "max_depth": 7, 
+    "start_height": {
+      "type": "uniform",
+      "min": {
+        "above_bottom": 30
+      },
+      "max": {
+        "above_bottom": 40
+      }
+    },
+    "heightmap_projection": "world_surface" 
+  } 
+}
