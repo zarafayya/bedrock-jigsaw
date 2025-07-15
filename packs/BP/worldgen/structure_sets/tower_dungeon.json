@@ -13,7 +13,7 @@
        }, 
        "structures": [ 
          { 
-          "structure": "chia:tower_dungeon" , 
+          "structure": "chia:tower_dungeon", 
           "weight": 1 
          } 
        ] 
