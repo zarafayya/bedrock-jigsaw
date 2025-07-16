@@ -1,5 +1,5 @@
 ﻿# Bedrock Jigsaw
-A personal add-on project that will add 2 new structure types inside your Minecraft world. Those new types are called Tower Dungeon and Cave Dungeon. Within the Tower Dungeon, lies the Quartz Zombies dwelling inside the chambers. Meanwhile, the Cave Dungeon are inhabited by the Mud Zombies. I wonder whether these creatures are a result of someone trying to transmutate a zombie into some new form inside those structures...
+A personal add-on project that will add 2 new structure types inside your Minecraft world. Those new types are called Tower Dungeon and Cave Dungeon. Within the Tower Dungeon, lies the Quartz Zombies dwelling inside the chambers of the dungeon. Meanwhile, the Cave Dungeon are inhabited by the Mud Zombies. I wonder whether these creatures are a result of someone trying to transmutate a zombie into some new form inside those structures...
 
 ## Tower Dungeon
 
