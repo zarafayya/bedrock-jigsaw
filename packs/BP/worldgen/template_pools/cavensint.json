@@ -1,0 +1,26 @@
+{ 
+  "format_version": "1.21.20", 
+  "minecraft:template_pool": { 
+    "description": { 
+      "identifier": "chia:cavensint" 
+    }, 
+    "elements": [ 
+      { 
+        "element": { 
+          "element_type": "minecraft:single_pool_element", 
+          "location": "chia/cavensint1", 
+          "processors": "chia:quartz_bricks_replacement" 
+        }, 
+        "weight": 1
+      }, 
+      { 
+        "element": { 
+          "element_type": "minecraft:single_pool_element", 
+          "location": "chia/cavensint2", 
+          "processors": "chia:quartz_bricks_replacement"
+        }, 
+        "weight": 1
+      } 
+    ] 
+  } 
+}
