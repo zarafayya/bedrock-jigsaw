@@ -1,2 +1,8 @@
 pack.name=bedrock-jigsaw RP
 pack.description=Resource Pack for bedrock-jigsaw
+
+entity.chia:quartz_zombie.name=Quartz Zombie
+entity.chia:mud_zombie.name=Mud Zombie
+
+item.spawn_egg.entity.chia:quartz_zombie.name=Spawn Quartz Zombie
+item.spawn_egg.entity.chia:mud_zombie.name=Spawn Mud Zombie

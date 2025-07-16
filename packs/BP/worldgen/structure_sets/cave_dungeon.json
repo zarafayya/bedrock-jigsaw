@@ -1,21 +1,21 @@
-{
+{ 
     "format_version": "1.21.20", 
     "minecraft:structure_set": { 
        "description": { 
-         "identifier": "chia:tower_dungeon" 
+         "identifier": "chia:cave_dungeon" 
        }, 
        "placement": { 
          "type": "minecraft:random_spread", 
          "salt": 83469867, 
-         "separation": 15, 
-         "spacing": 40, 
+         "separation": 9, 
+         "spacing": 20,  
          "spread_type": "linear" 
        }, 
        "structures": [ 
          { 
-          "structure": "chia:tower_dungeon", 
+          "structure": "chia:cave_dungeon", 
           "weight": 1 
          } 
        ] 
-    }
+    } 
 }

@@ -9,9 +9,10 @@
         "element": { 
           "element_type": "minecraft:single_pool_element", 
           "location": "chia/main", 
-          "processors": "chia:quartz_bricks_replacement" 
-        }
-      }
+          "processors": "chia:quartz_bricks_replacement"
+        }, 
+        "weight": 1
+      } 
     ] 
   } 
 }

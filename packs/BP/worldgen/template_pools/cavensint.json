@@ -2,22 +2,22 @@
   "format_version": "1.21.20", 
   "minecraft:template_pool": { 
     "description": { 
-      "identifier": "chia:we7x11" 
+      "identifier": "chia:cavensint" 
     }, 
     "elements": [ 
       { 
         "element": { 
           "element_type": "minecraft:single_pool_element", 
-          "location": "chia/we", 
-          "processors": "chia:quartz_bricks_replacement" 
+          "location": "chia/cavensint1", 
+          "processors": "chia:mud_bricks_replacement" 
         }, 
-        "weight": 3
+        "weight": 1
       }, 
       { 
         "element": { 
           "element_type": "minecraft:single_pool_element", 
-          "location": "chia/wecap", 
-          "processors": "chia:quartz_bricks_replacement"
+          "location": "chia/cavensint2", 
+          "processors": "chia:mud_bricks_replacement"
         }, 
         "weight": 1
       } 

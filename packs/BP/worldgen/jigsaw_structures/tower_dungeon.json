@@ -4,17 +4,24 @@
     "description": { 
       "identifier": "chia:tower_dungeon" 
     }, 
+    "biome_filters": [ 
+      { 
+        "test": "has_biome_tag", 
+        "operator":"==", 
+        "value": "animal"
+      } 
+    ], 
     "step": "surface_structures", 
     "terrain_adaptation": "none", 
-    "start_pool": "chia:ns7x9", 
-    "max_depth": 5, 
+    "start_pool": "chia:tb", 
+    "max_depth": 12, 
     "start_height": {
       "type": "uniform",
       "min": {
-        "above_bottom": 63
+        "above_bottom": 70
       },
       "max": {
-        "above_bottom": 73
+        "above_bottom": 80
       }
     },
     "heightmap_projection": "world_surface" 
