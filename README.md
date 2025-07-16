@@ -14,6 +14,6 @@ https://github.com/user-attachments/assets/f1692821-c45f-4bc5-b67b-5606a75465a9
 https://github.com/user-attachments/assets/0620d6e0-ceda-45c8-bcbc-cd1a059ab09e
 
 ### Footnote
-This project is made within 3 days. Starting from 7/14/2025 to 7/16/2025
+This project is made within 4 days. Starting from 7/13/2025 to 7/16/2025
 
 Made with ❤️ @2025 Zahra Fayyadiyati 
